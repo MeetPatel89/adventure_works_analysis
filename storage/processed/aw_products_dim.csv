@@ -1,4 +1,4 @@
-ProductKey,ProductSubcategoryKey,ProductSKU,ProductName,ModelName,ProductDescription,ProductColor,ProductStyle,ProductCost,ProductPrice,DiscountPrice,SKUType,SKU_category,price_point
+ProductKey,ProductSubcategoryKey,ProductSKU,ProductName,ModelName,ProductDescription,ProductColor,ProductStyle,ProductCost,ProductPrice,DiscountPrice,SKUType,SKUCategory,PricePoint
 214,31,HL-U509-R,"Sport-100 Helmet, Red",Sport-100,"Universal fit, well-vented, lightweight , snap-on visor.",Red,,13.09,34.99,29.74,HL-U509,HL,Low
 215,31,HL-U509,"Sport-100 Helmet, Black",Sport-100,"Universal fit, well-vented, lightweight , snap-on visor.",Black,,12.03,33.64,28.6,HL-U509,HL,Low
 218,23,SO-B909-M,"Mountain Bike Socks, M",Mountain Bike Socks,Combination of natural and synthetic fibers stays dry and provides just the right cushioning.,White,U,3.4,9.5,8.07,SO-B909,SO,Low
