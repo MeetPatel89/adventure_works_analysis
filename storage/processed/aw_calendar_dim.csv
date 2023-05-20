@@ -1,4 +1,4 @@
-Date,DayName,MonthName,Year,StartofYear,StartOfMonth,StartOfWeek,DayOfWeek,Weekend,ShortDay,ShortMonth
+Date,DayName,MonthName,Year,StartOfYear,StartOfMonth,StartOfWeek,DayOfWeek,Weekend,ShortDay,ShortMonth
 2015-01-01,Thursday,January,2015,2015-01-01,2015-01-01,2014-12-29,4,Weekday,THU,JAN
 2015-01-02,Friday,January,2015,2015-01-01,2015-01-01,2014-12-29,5,Weekday,FRI,JAN
 2015-01-03,Saturday,January,2015,2015-01-01,2015-01-01,2014-12-29,6,Weekend,SAT,JAN
